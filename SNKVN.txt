@@ -1,7 +1,5 @@
-
 その日、人類は思い出した
 that day, humanity remembered
-
 
 ヤツらに支配されていた恐怖を烏龍の中に囚われていた屈辱を
 The humiliation and the fear that is being trapped on a cage by those things...
@@ -10,7 +8,7 @@ The humiliation and the fear that is being trapped on a cage by those things...
 Mankind who has been trapped inside the wall for over 100 years
 
 突然現れた超大型巨人によって再び蹂躙された
-Was overrun again by the Titan  who suddenly appeared
+Was overrun again by the Titans who suddenly appeared
 
 後に言う「シガンシナ陥落」である
 It is the “fall of Ciganchina” they described/said later.
@@ -18,10 +16,8 @@ It is the “fall of Ciganchina” they described/said later.
 再びの態撃 を受け最前線にあるトロスト区を巨人に蹂躙されるも
 After being attacked again, the Trost Ward was overrun by the Titans.
 
-
 立体機動装置を駆使する兵士達の死闘により
-The use of the 3D equipemnet , avoided ( ?) the death of many soldies
-
+The use of the 3D equipemnet avoided (??) the death of many soldies
 
 人類 は初めて巨人から自分達の頷土を奪還することに成功した
 For the first time mankind succeeded in regaining their freedon (????) from titans
@@ -30,12 +26,10 @@ For the first time mankind succeeded in regaining their freedon (????) from tita
 Also, at this time, they became aware of the existence of human beings who could become titans for the first time.
 
 そして、「トロスト区攻防戦」と呼ばれるこの戦いから1力月後
-And one month after this battle called "Torosto War"
-
+And one month after this, the battle called "Torosto War" happened
 
 エルヴィン率いる調査兵団は第５7回壁外調査へと出発することになる
 Erwin's expeditionary troops set off for 57th off-wall investigation
-
 
 この物語は、第57回壁外調査の迫前に調査兵団のー部団員によって行われたとある極秘調査でのできごとである
 This story is an event of a confidential research conducted by a member of the investigation corps before the 57th extra-wall investigation.
@@ -48,6 +42,11 @@ As a 104th class student, you have to endure the rigorous training, and with you
 
 あなたの性別は？
 What is your gender?
+
+女性
+girl
+
+my imput name is Dante  ダンテ
 
 どうしてこんなことに?
 why??
@@ -80,7 +79,9 @@ If I lose a horse in such a place, I will die
 I have to run away
 
 本当に ?
-Really
+Really??
+
+CHOOSE THE FIRST CHOICE (dont give up)
 
 ただ黙って食われるなんてごめんだ
 I'm sorry I can't just give up yet
@@ -321,6 +322,8 @@ It seems that I can move properly
 なら、さっさと周囲の調査を始めるぞ
 Then lets start a survey of the surrounding area.
 
+CLICK ON THE ONLY SHINING DOT
+
 どのくらいの深さを落下したのだろう壁を這いのぼり地上に出られない
 How deep did he fall?  can't they crawl on the wall and get out on the ground/supercie???
 
@@ -507,24 +510,26 @@ There is something terrifying behind this
 理由はわからないけれどそんな気が。。。
 I don't know why, but I feel like that. .. ..
 
-(aqui teve uma escolha q eu nao consegui ler só sei q teve a ver com a bookshelf)
+CHOOSE THE SECOND ONE!
 
-何か脱出に役立つものがあるかもしれない、よくづいて調べてみよう
-There may be something that can help you escape, so let's check carefully
+(何か脱出に役立つものが
+あるかも しれない
+近づいてヽ よく調べてみよう)
+(Something might help us escape.
+Let's get closer and check it out.)
 
 やめろ
 stop
 
-え
-?
-
-そこを調べる必要はない
+そこを調ベる必要はない
 他を調べるぞ
-You don't have to look there
-lets look elsewhere
+You don't have to go there
+lets look somewhere else
 
-何度も言わせるな俺は気が長いほうじゃない
-Don't make me say it again and again
+……何度も言わせるな
+俺は気が長いほう じゃない
+Dont make me repeat myself
+I am not very pacient
 
 はい！失礼しました
 Yes! Excuse me
@@ -553,7 +558,9 @@ The rubble is in the way and the door won't open
 How to get rid of rubble
 I need a tool..
 
-(usei a madeira )
+CHOOSE THE SECOND ONE (to use the wooden board)
+
+
 
 木の板を瓦礫の下にさしこんで「てこ」の要領で、思い切り力をこめてみた
 I put a wooden board under the rubble and tried to put my strength in the way of "leverage"
@@ -732,7 +739,7 @@ that..
 Even if you fight with no weapons
 you will just needlessly fill his belly
 
-(teve uma escolha aqui, eu concordei com o levi mas sei la o que ele disse)
+CHOOSE THE SECOND ONE (that you agree with him)
 
 兵長の指示に従います
 ですが、武器が手に入ったら
@@ -826,7 +833,7 @@ here?
 Oh no
 understood
 
-(mecanica nova)
+FREE TIME EVENT
 
 
 休むべきときには休め
@@ -928,8 +935,8 @@ Then wait here for death while worring
 ここで、何もせずに死ぬ？
 i gonna die without doing anything?
 
-(marquei a escolha 2)
-( adimiti que sou covarde e ele fala q ser covarde nao é algo ruim)
+CHOOSE THE SECOND ONE, SAYING THAT YOU WERE A LITTLE COWARD
+LEVI IS GONNA SAY THAT BEING COWARD IS NOT BAD, BUT NOT DOING ANYTHING IS
 
 不安だからって、ここにいてもまた巨人が来るだけですよね
 Even if I am anxious here, the giants will just come again
@@ -1173,7 +1180,7 @@ you dont wanna be eten by them
 巨人に大人しく食べられる? (sei la ta estranho)
 Can the giant eat quietly?
 
-escolha - escolhi dizer que temos que achar uma maneira de evitarmos ser comidos
+CHOOSE THE SECOND ONE - SAYING THAT YOU WILL SEARCH A WAY TO AVOID BEING EATING
 
 そのつもりがあるなら周りをよく観察することだ
 If you have that intention, look closely at them
@@ -1314,10 +1321,7 @@ strange
 扉が開かね
 the door opened
 
-ESCOLHA SOBRE ABRIR A PORTA
-
-ESCOLHI O ROLE DA CHAVE
-
+CHOOSE THE SECOND ONE - ABOUT OPENING THE DOOR
 だろうな
 だが、 こちら側には
 鍵と鍵穴も見当たらない
@@ -1445,6 +1449,7 @@ I feel that the ceiling is lower than the other passages.
 
 (ta ele diz q tem que procurar um role pra porta)
 ta nao vou traduzir isso pq é chato, mas eu olhei no castiçal
+CHOOSE THE THIRD ONE
 
 もしかして!
 could it be
@@ -1460,6 +1465,7 @@ Explain
 あの燭台を
 That candlestick
 
+CHOOSE THE FIRST ONE
 (あの燭台、 気になるな扉の開閉と関係していたりしないだろうか)
 (Isn't it related to the opening and closing of that candlestick, don't bother?)
 
@@ -1472,17 +1478,52 @@ I told you to do what you want
 If you move the candlestick down,
 A small keyhole appeared
 
-merdaaaaaaaaa escolha de tempo
-ta sei lá o que escolhi
-só sei q deu boa, saimo da prosao
+CHOOSE THE SECOND ONE - ITS ABOUT INVESTIGATING THE KEYHOLE
+
+
+(何か仕掛けがあるかも しれない
+少し調べてみよう)
+(There may be some tricks
+(Let's investigate a little)
+
+(あれ? 鍵穴に見えたけど
+まわりにも小さな穴がいくつかある
+この中に見えるのは……針?)
+(Huh? It looked like a keyhole
+There are some small holes around
+What can be seen in this is a needle?)
+
+扉のほうから、 何か音
+Some sound from the door
+
+今の音はもしかして
+could it be the sound...
+
+ふん
+時間をおいたことで勝手に開いたみたいだな
+Hmm
+It seems that it opened because of time
+
+燭台を動かしたらあとは何も しないのが正解だったということか
+It was the correct answer to move the candlestick?
+
+ここの城主は、 お前以上のひねくれ者のようだな
+扉を調ベるぞ
+The castle owner here is more like a twister than you
+I'll adjust the door
+
+牢屋奥の扉が開いている
+The door behind the prison is open
+
+進むぞ
+lets go
+
+END OF SURVEY 3
+
 
 扉の先には、 様々な拷間器具が
 置かれた部屋が広がつていた
 At the end of the door was a room with various torture devices.
-
-
-END OF SURVEY 3
-
 
 拷問部屋か?
 ずいぶんと趣味のいい城主だったようだな
@@ -1504,8 +1545,14 @@ I don't understand the feeling of the guy who kills people with these things
 拷問器具を使う人の気持ち…
 Feelings of people who use torture devices
 
-ESCOLHA
-ESCOLHI A 2 DIZENDO Q DEVIA EXISTIR UM MOTIVO
+CHOOSE THE SECOND One
+
+ロを割らせるため拷問せさるをえなかった…とか
+楽しむためなんかじゃない
+そう思わないとやりきれません
+Not for fun
+I can't do it unless I think so
+
 
 人を痛めつけることのみを目的にした殺し方は考えただけで気分か悪くなります
 Killing only for the purpose of hurting people makes me feel sick just by thinking
@@ -1531,11 +1578,6 @@ I can't feel joy, joy or sadness
 心のどこかを失つてしまつた人がこの器具を使つたのかも しれません
 Perhaps a person who lost somewhere in his heart used this device
 
-ロを割らせるため拷問せさるをえなかった…とか
-楽しむためなんかじゃない
-そう思わないとやりきれません
-Not for fun
-I can't do it unless I think so
 
 巨大な刃のついた仕掛けだ
 It's a device with a huge blade
